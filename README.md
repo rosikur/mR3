@@ -41,7 +41,7 @@ fit everything in a compact chassis with a display.
 Firstly take the gerber.zip and upload them to the PCB manufacturer of your choosing, I prefer JLCPCB as i can use the bom in their daughter company lscs to buy the components.
 I really recommend to order a stencil with your order because you'll be miserable soldering IC's
 
-Secondly go to LSCS with the bom.csv and order everything with their MOQ (Minimum Order Quantity) I really recommend to get extra Components 0805s are really common for lots of Projects, if you follow my projects, you can be sure that we'll be using them.
+Secondly go to LSCS with the bom file and order everything with their MOQ (Minimum Order Quantity) I really recommend to get extra Components 0805s are really common for lots of Projects, if you follow my projects, you can be sure that we'll be using them.
 
 Thirdly, get some solder paste and a Heatplate if you havn't yet else your closest Hackerspace will have some (Props to the C3PB and CCC)
 
