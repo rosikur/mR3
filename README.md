@@ -1,5 +1,9 @@
 # mR3
 
+## Before we start
+
+I'm so so incredibly Sorry but the firmware was made by an artifical intelligence. This was the result of pixl.hackclub.com shutting down in which I had to finish my Project as soon as possible
+
 ## Introduction
 
 Hey Guys! This is my first Music Player Project. The Goal is to learn how to wire
@@ -53,7 +57,11 @@ Lastly make sure to put the battery in correctly THIS IS VERY IMPORTANT. Add the
 3d print it CNC it idc, i will be uploading the STL , the 3mf the STEP and the cnc file.
 I recommend Prototyping with 3d Print and CNC as a finished Product. I will be Posting both results soon!
 
+The Case is now almost finished, I only need to add the buttons,
+Here is how it turned out:
+![An CAD Model of an MP3 Player](https://cdn.hackclub.com/01a18887-d47a-75a1-879c-eb23f7ed05d4/img_2142.png)
+
 # Firmware
 
-    Uhm is there supposed to be something here?
-    (check later)
+Install esp tool or plattform IO press the boot button and plug it into your Computer if you are using Plattform IO you'll have to compile it first ,for esp tool use the ready .bin files :D once its sent to the ESP its ready to use have fun
+(Obviously assemble it first)

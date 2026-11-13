@@ -1,0 +1,37 @@
+Comment,Designator,Footprint,Quantity,LINK
+0.47uF,"C1, C2",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,https://www.tme.eu/de/details/cl21b474kafnnng/kondensatoren-mlcc-smd/samsung/
+2.2uF,"C3, C4, C8, C9",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4,https://www.tme.eu/de/details/0805b225k160ct/kondensatoren-mlcc-smd/walsin/
+0.1uF,"C5, C6, C14, C15, C16, C19",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,6,https://www.tme.eu/de/details/0805b104k500ct/kondensatoren-mlcc-smd/walsin/
+1uF,"C7, C10, C11, C12, C13, C21, C22, C23, C24, C31",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10,https://www.tme.eu/de/details/0805b105k250ct/kondensatoren-mlcc-smd/walsin/
+10uF,"C17, C18, C26",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3,https://www.tme.eu/de/details/c0805c106k9pac/kondensatoren-mlcc-smd/kemet/c0805c106k9pactu/
+22uF,"C20, C28, C29, C32, C33, C34",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,6,https://www.tme.eu/de/details/jmk212abj226mg-t/kondensatoren-mlcc-smd/taiyo-yuden/
+47nF,C27,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,https://www.tme.eu/de/details/0805b473k500cg/kondensatoren-mlcc-smd/walsin/
+4.7uF,C30,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,https://www.tme.eu/de/details/0805x475k6r3ct/kondensatoren-mlcc-smd/walsin/
+LED,D1,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,https://www.tme.eu/de/details/of-smd2012r/led-dioden-smd-bunt/optoflash/
+Micro_SD_Card,J1,microSD_HC_Wuerth_693072010801,1,https://www.mouser.de/en/ProductDetail/Wurth-Elektronik/693072010801?qs=7gQLVZk5cPmw4uU1mAcUFg%3D%3D
+AudioJack3_SwitchTR,J2,Jack_3.5mm_CUI_SJ1-3515N_Horizontal,1,https://www.tme.eu/de/details/sj13513/klinken-steckverbinder/same-sky-r/sj1-3513/
+Conn_01x09_Socket DNP,J3,PinHeader_1x09_P2.54mm_Vertical,1,DNP
+USB_C_Receptacle_USB2.0_14P,J4,USB_C_Receptacle_Amphenol_12401548E4-2A,1,https://www.mouser.de/en/ProductDetail/Amphenol-Commercial-Products/12401598E42A?qs=367PjNmvCmllVMBVyIyS3w%3D%3D
+Conn_01x02_Pin,J5,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,1,https://www.tme.eu/de/details/s2b-xh-a-1/signalsteckverbinder-raster-2-50mm/jst/s2b-xh-a-1-lf-sn/
+2.2uH,L1,L_2512_6332Metric_Pad1.52x3.35mm_HandSolder,1,https://www.mouser.de/en/ProductDetail/Bourns/SRP2512-2R2M?qs=sGAEpiMZZMukHu%252BjC5l7YdTJBteetShHxC51KzP5FBA%3D
+0.47uH,L2,L_2512_6332Metric_Pad1.52x3.35mm_HandSolder,1,https://www.mouser.de/en/ProductDetail/652-SRP2512-R47M
+Speaker,"LS1, LS2",JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,2,https://a.aliexpress.com/_EJix1bo
+10k,"R1, R2, R4, R5, R6, R7, R9, R10, R13, R14, R16, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,23,https://www.tme.eu/de/details/wr08x1002ftl/smd-widerstaende/walsin/
+5.1k,"R3, R12",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,https://www.tme.eu/de/details/wr08x5101ftl/smd-widerstaende/walsin/
+1k,"R8, R11",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,https://www.tme.eu/de/details/wr08x102jtl/smd-widerstaende/walsin/wr08x102-jtl/
+6.8k,R15,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.tme.eu/de/details/wr08x6801ftl/smd-widerstaende/walsin/
+2.2k,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.tme.eu/de/details/wr08x222jtl/smd-widerstaende/walsin/wr08x222-jtl/
+260,R18,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.tme.eu/de/details/rc0805fr-07261rl/smd-widerstaende/yageo/
+100k,R19,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.tme.eu/de/details/wr08x1003ftl/smd-widerstaende/walsin/
+91k,R20,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.mouser.de/en/ProductDetail/Panasonic-Industry/ERJ-6ENF9102V?qs=sGAEpiMZZMtlubZbdhIBIOIpaOjkYUZGTcw3DF91WWo%3D
+511k,R21,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.tme.eu/de/details/smd0805-511k-1%25/smd-widerstaende/royalohm/0805s8f5113t5e/
+SW_Push,"SW1, SW2, SW3, SW4, SW5, SW9",SW_PUSH_6mm_H5mm,6,https://www.tme.eu/de/details/b3f-1000/mikroschalter-tact/aratas-formerly-omron-components/
+SW_Push,"SW6, SW7, SW8",SW_Tactile_SPST_Angled_PTS645Vx31-2LFS,3,https://www.tme.eu/de/details/tacta-64n-f/mikroschalter-tact/ninigi/
+TPA6132A2RTE,U1,WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias,1,https://www.mouser.de/en/ProductDetail/595-TPA6132A2RTET
+PAM8403D,U2,SOIC-16_3.9x9.9mm_P1.27mm,1,https://www.mouser.de/en/ProductDetail/621-PAM8403DR-H
+PCM5102A,U3,TSSOP-20_4.4x6.5mm_P0.65mm,1,https://www.mouser.de/en/ProductDetail/595-PCM5102APWR
+BQ25895RTW,U5,Texas_RTW_WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias,1,https://www.mouser.de/en/ProductDetail/595-BQ25895RTWR
+TPS63802DLAR,U6,DLA0010A,1,https://www.mouser.de/en/ProductDetail/595-TPS63802DLAR
+ESP32-S3-WROOM-1,U7,ESP32-S3-WROOM-1,1,https://www.mouser.de/en/ProductDetail/356-ESP32S3WROM1N4R8
+Battery,x,LIPo Battary,1,https://a.aliexpress.com/_ExininM
+Display (Check Pins),x,TFT Disp,1,https://a.aliexpress.com/_EHwSQO6
