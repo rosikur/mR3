@@ -59,7 +59,7 @@ I recommend Prototyping with 3d Print and CNC as a finished Product. I will be P
 
 The Case is now almost finished, I only need to add the buttons,
 Here is how it turned out:
-![An CAD Model of an MP3 Player](https://cdn.hackclub.com/01a18887-d47a-75a1-879c-eb23f7ed05d4/img_2142.png)
+![An CAD Model of an MP3 Player](https://cdn.hackclub.com/01a1d5a2-138b-7a92-a455-95550f6b7a9c/img_2143.png)
 
 # Firmware
 
