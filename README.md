@@ -11,6 +11,8 @@ a DAC(Digital Audio Convertor) without Signal Lose. An Amplifier without Noise.
 How to power an Stereo Speaker System. How to cnc machine the chassis and how to
 fit everything in a compact chassis with a display.
 
+![cad with text](https://cdn.hackclub.com/01a1e4fc-ffb1-7412-ad6b-85f78517e2f3/untitled.jpg)
+
 ## Components
 
 # ICs:
@@ -51,6 +53,12 @@ put the stencil on (smh) and spread the paste with an old Credit Card. Make sure
 Fifth, select a side which will be easier to solder (the back in our case) add everything and put them on the Heatplate or a reflow oven
 
 Lastly make sure to put the battery in correctly THIS IS VERY IMPORTANT. Add the speakers correctly so they dont play in reverse. that should be about it for the pcb onto the case!
+
+# PCB images
+
+![front](https://user-cdn.hackclub-assets.com/01a1e506-079d-7ce6-87b5-ea25bf6bda13/image.png)
+![back](https://user-cdn.hackclub-assets.com/01a1e504-2ec7-71bc-8c40-efebca243627/image.png)
+![kicad](https://user-cdn.hackclub-assets.com/01a1e500-09fc-71a2-80eb-f29b66e04aaf/image.png)
 
 # Case
 
